@@ -1,2 +1,2 @@
-# MoneroGlobalPrivate
-MoneroGlobalPrivate, fast, private, global, unique cryptocurrency.
+# Monero
+The new Quantum technnology is here, fast, private, global, unique cryptocurrency.
